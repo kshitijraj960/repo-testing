@@ -1,7 +1,7 @@
 {
-    "name": "🌹⃝𖣔𝄟ॐ❥𝗥𝗜𝗗𝗘𝗥🍷𝗠𝗨𝗦𝗜𝗖🍷𝗕𝗢𝗧⏤͟͟͞❥͜͡𝄟⃟🥀🥀⛦⃕‌🇮🇳",
+    "name": "🌹⃝𖣔𝄟ॐ❥𝗤𝗨𝗘𝗘𝗡🍷𝗠𝗨𝗦𝗜𝗖🍷𝗕𝗢𝗧⏤͟͟͞❥͜͡𝄟⃟🥀🥀⛦⃕‌🇮🇳",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/59607e2988c84e571b7b0.jpg",
+    "logo": "https://telegra.ph/file/82f6a7d1d630c2f0106b5.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -34,7 +34,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "𝐀 𝐍𝐀𝐌𝐄 𝐅𝐎𝐑 𝐘𝐎𝐔𝐑 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓. 𝐀𝐋𝐖𝐀𝐘𝐒 𝐖𝐑𝐈𝐓𝐄 𝐈𝐍 𝐒𝐈𝐌𝐏𝐋𝐄 𝐋𝐄𝐓𝐓𝐄𝐑",
-        "value": "RIDER X MUSIC",
+        "value": "FIGHTER MUSIC",
         "required": true
       },
       "OWNER_ID": {
@@ -46,7 +46,7 @@
 
         "description": " 𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐎𝐖𝐍𝐄𝐑 𝐔𝐒𝐄𝐑𝐍𝐀𝐌𝐄 ( 𝗪𝗜𝗧𝗛𝗢𝗨𝗧 @ ).",
 
-        "value": "XO_TERA_BAAP_ON_FIRE",
+        "value": "MAFIA_RJ",
 
         "required": true
 
@@ -70,7 +70,7 @@
 
        "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 𝐔𝐒𝐄𝐑𝐍𝐀𝐌𝐄 ( 𝗪𝗜𝗧𝗛𝗢𝗨𝗧 @ ). ",
 
-       "value": "DOSTO_KI_M3HFIL",
+       "value": "QUEEN_SUPPORTS_CHAT",
 
        "required": true
 
@@ -79,14 +79,14 @@
 
        "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐔𝐒𝐄𝐑𝐍𝐀𝐌𝐄 ( 𝗪𝗜𝗧𝗛𝗢𝗨𝗧 @ ). ",
 
-       "value": "RIDER_MUSIC_SUPPORT",
+       "value": "QUEEN_MUSIC_NETWORK",
 
        "required": true
 
       },
       "START_IMG_URL": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐒𝐓𝐀𝐑𝐓 𝐁𝐎𝐓 𝐈𝐌𝐀𝐆𝐄 𝐔𝐑𝐋, 𝐆𝐄𝐓 𝐈𝐓 𝐅𝐑𝐎𝐌 ;- t.me/vTelegraphBot",
-        "value": "https://graph.org/file/59607e2988c84e571b7b0.jpg",
+        "value": "https://telegra.ph/file/82f6a7d1d630c2f0106b5.jpg",
         "required": false
       },
       "LOG_GROUP_ID": {
