@@ -18,12 +18,12 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/970ec74964dd9707fec7d.jpg",
-        caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐃𝐌❤️𝐎𝐖𝐍𝐄𝐑🍁""",
+        caption=f"""🍁ᴄʟɪᴄᴋ🥰ʙᴇʟᴏᴡ💝ʙᴜᴛᴛᴏɴ✨ᴛᴏ🙊ᴅᴍ❤️ᴏᴡɴᴇʀ🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌹 𝐊𝐍𝐈𝐆𝐇𝐓 𝐑𝐈𝐃𝐄𝐑 🌹", url=f"https://t.me/MAFIA_RJ")
+                        "🌹 ᴍᴀғɪᴀ ʀᴀᴊ 🌹", url=f"https://t.me/MAFIA_RJ")
                 ]
             ]
         ),
@@ -36,12 +36,12 @@ async def help(client: Client, message: Message):
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/970ec74964dd9707fec7d.jpg",
-        caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐃𝐌❤️𝐎𝐖𝐍𝐄𝐑🍁""",
+        caption=f"""🍁ᴄʟɪᴄᴋ🥰ʙᴇʟᴏᴡ💝ʙᴜᴛᴛᴏɴ✨ᴛᴏ🙊ᴅᴍ❤️ᴏᴡɴᴇʀ🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌹 𝐊𝐍𝐈𝐆𝐇𝐓 𝐑𝐈𝐃𝐄𝐑 🌹", url=f"https://t.me/MAFIA_RJ")
+                        "🌹 ᴍᴀғɪᴀ ʀᴀᴊ 🌹", url=f"https://t.me/MAFIA_RJ")
                 ]
             ]
         ),
@@ -59,7 +59,7 @@ async def help(client: Client, message: Message):
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/970ec74964dd9707fec7d.jpg",
-        caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
+        caption=f"""🍁ᴄʟɪᴄᴋ🥰ʙᴇʟᴏᴡ💝ʙᴜᴛᴛᴏɴ✨ᴛᴏ🙊ɢᴇᴛ🌱ʀᴇᴘᴏ🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -77,7 +77,7 @@ async def help(client: Client, message: Message):
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/970ec74964dd9707fec7d.jpg",
-        caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
+        caption=f"""🍁ᴄʟɪᴄᴋ🥰ʙᴇʟᴏᴡ💝ʙᴜᴛᴛᴏɴ✨ᴛᴏ🙊ɢᴇᴛ🌱ʀᴇᴘᴏ🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -95,7 +95,7 @@ async def help(client: Client, message: Message):
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/970ec74964dd9707fec7d.jpg",
-        caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
+        caption=f"""🍁ᴄʟɪᴄᴋ🥰ʙᴇʟᴏᴡ💝ʙᴜᴛᴛᴏɴ✨ᴛᴏ🙊ɢᴇᴛ🌱ʀᴇᴘᴏ🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
